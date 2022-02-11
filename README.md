@@ -18,5 +18,11 @@ Se trata de subir una aplicación hecha en React para el Frontend y hacerla acce
 
 #### URLs de las aplicaciones desplegadas
 
+Credenciales de prueba para iniciar sesión desde el Frontend:
+
+> Usuario: user@example.com
+
+> Contraseña: 1234
+
 - Frontend: [http://54.167.123.132/](http://54.167.123.132/)
 - Backend: [http://ec2-54-167-123-132.compute-1.amazonaws.com/](http://ec2-54-167-123-132.compute-1.amazonaws.com/)

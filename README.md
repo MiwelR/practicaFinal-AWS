@@ -18,9 +18,5 @@ Se trata de subir una aplicación hecha en React para el Frontend y hacerla acce
 
 #### URLs de las aplicaciones desplegadas
 
-- Frontend: 
-- Backend: 
-
--- 
-*Sin terminar*
--- 
+- Frontend: [http://54.167.123.132/](http://54.167.123.132/)
+- Backend: [http://ec2-54-167-123-132.compute-1.amazonaws.com/](http://ec2-54-167-123-132.compute-1.amazonaws.com/)
